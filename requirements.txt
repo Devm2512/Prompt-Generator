@@ -1,0 +1,17 @@
+pandas
+numpy
+
+scikit-learn
+pydantic
+
+transformers
+torch
+sentence-transformers
+
+fastapi==0.111.0
+uvicorn==0.30.1
+python-multipart==0.0.9
+
+langchain_ollama
+langchain
+langgraph
